@@ -4,6 +4,7 @@
 Tudo o que você precisa
 saber para oferecer uma vida saudável, segura e feliz para
 sua ave, do primeiro dia em casa ao dia a dia.
+Projeto como parte da formação "Fundamentos de Inteligência Artificial" da DIO
 
 ## 🤖 Tecnologias Utilizadas
 Claude
